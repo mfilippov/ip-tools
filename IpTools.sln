@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IpTools", "src\IpTools\IpTools.csproj", "{48C29796-C8AB-45AB-96DF-4D75F3F1E0EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IpTools.Tests", "src\IpTools.Tests\IpTools.Tests.csproj", "{83B23532-A09E-414B-A203-8C1B0D087B13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48C29796-C8AB-45AB-96DF-4D75F3F1E0EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48C29796-C8AB-45AB-96DF-4D75F3F1E0EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48C29796-C8AB-45AB-96DF-4D75F3F1E0EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48C29796-C8AB-45AB-96DF-4D75F3F1E0EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83B23532-A09E-414B-A203-8C1B0D087B13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83B23532-A09E-414B-A203-8C1B0D087B13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83B23532-A09E-414B-A203-8C1B0D087B13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83B23532-A09E-414B-A203-8C1B0D087B13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
